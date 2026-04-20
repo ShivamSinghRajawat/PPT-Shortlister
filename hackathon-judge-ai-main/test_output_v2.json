@@ -1,0 +1,149 @@
+﻿{
+    "success":  true,
+    "results":  [
+                    {
+                        "scores":  {
+                                       "problem_understanding":  15,
+                                       "solution_approach":  15,
+                                       "innovation":  15,
+                                       "technical_feasibility":  15,
+                                       "presentation_quality":  5
+                                   },
+                        "reasoning":  {
+                                          "problem_understanding":  "The problem \u0027Students struggle to find hackathon teams\u0027 is defined and represents a grounded pain point. However, it lacks depth, specific user research, or compelling data to elevate it beyond an average understanding.",
+                                          "solution_approach":  "The solution \u0027A Tinder-like app for hackers\u0027 is functional and directly addresses the core problem. It provides a clear concept for matching. However, it lacks details on comprehensive flows, edge cases, or architectural considerations, making it an average approach.",
+                                          "innovation":  "The concept of a \u0027Tinder-like app\u0027 for matching people is an existing paradigm. Applying it to the niche of \u0027hackers\u0027 for team formation represents an existing concept with a new twist, rather than a novel or paradigm-shifting innovation.",
+                                          "technical_feasibility":  "The proposed tech stack \u0027React, Firebase, Node.js\u0027 is a standard and feasible combination. It indicates the project is achievable but doesn\u0027t suggest any technically impressive features, advanced optimization, or complex architecture handled elegantly.",
+                                          "presentation_quality":  "The submission consists solely of three short sentences of raw text. It completely lacks any visual elements, formatting, diagrams, or storytelling, which are fundamental to presentation quality. This falls squarely into the \u0027Poor\u0027 category."
+                                      },
+                        "citations":  {
+                                          "problem_understanding":  "PPT TEXT CONTENT: \u0027Problem: Students struggle to find hackathon teams.\u0027",
+                                          "solution_approach":  "PPT TEXT CONTENT: \u0027Solution: A Tinder-like app for hackers.\u0027",
+                                          "innovation":  "PPT TEXT CONTENT: \u0027Solution: A Tinder-like app for hackers.\u0027",
+                                          "technical_feasibility":  "PPT TEXT CONTENT: \u0027Tech Stack: React, Firebase, Node.js.\u0027",
+                                          "presentation_quality":  "The entire submission is provided as raw text content, lacking any visual elements, formatting, or diagrams typical of a presentation."
+                                      },
+                        "total_score":  65,
+                        "missing_sections":  [
+                                                 "Detailed Solution Flow",
+                                                 "Architecture Diagram",
+                                                 "Future Scope",
+                                                 "User Research/Data",
+                                                 "Competitive Analysis",
+                                                 "Team Information",
+                                                 "Demo (implied by PPT submission)"
+                                             ],
+                        "strengths":  [
+                                          "Identifies a real and common problem faced by hackathon participants.",
+                                          "Proposes a straightforward and understandable solution concept.",
+                                          "Utilizes a feasible and common tech stack, indicating technical achievability."
+                                      ],
+                        "weaknesses":  [
+                                           "Lack of depth in problem understanding, with no supporting data or research.",
+                                           "Solution is high-level and lacks detailed features, user flows, or unique aspects.",
+                                           "Innovation is limited to applying an existing concept to a new domain.",
+                                           "Minimal technical details provided, with no mention of advanced features or optimizations.",
+                                           "Extremely poor presentation quality, consisting only of raw text.",
+                                           "Many critical sections typically found in a hackathon presentation are entirely missing."
+                                       ],
+                        "verdict":  "REJECT",
+                        "confidence":  1
+                    },
+                    {
+                        "scores":  {
+                                       "problem_understanding":  15,
+                                       "solution_approach":  15,
+                                       "innovation":  15,
+                                       "technical_feasibility":  15,
+                                       "presentation_quality":  5
+                                   },
+                        "reasoning":  {
+                                          "problem_understanding":  "The problem \u0027Students struggle to find hackathon teams\u0027 is defined and represents a grounded pain point. However, it lacks depth, specific user research, or compelling data to elevate it beyond an average understanding.",
+                                          "solution_approach":  "The solution \u0027A Tinder-like app for hackers\u0027 is functional and directly addresses the core problem. It provides a clear concept for matching. However, it lacks details on comprehensive flows, edge cases, or architectural considerations, making it an average approach.",
+                                          "innovation":  "The concept of a \u0027Tinder-like app\u0027 for matching people is an existing paradigm. Applying it to the niche of \u0027hackers\u0027 for team formation represents an existing concept with a new twist, rather than a novel or paradigm-shifting innovation.",
+                                          "technical_feasibility":  "The proposed tech stack \u0027React, Firebase, Node.js\u0027 is a standard and feasible combination. It indicates the project is achievable but doesn\u0027t suggest any technically impressive features, advanced optimization, or complex architecture handled elegantly.",
+                                          "presentation_quality":  "The submission consists solely of three short sentences of raw text. It completely lacks any visual elements, formatting, diagrams, or storytelling, which are fundamental to presentation quality. This falls squarely into the \u0027Poor\u0027 category."
+                                      },
+                        "citations":  {
+                                          "problem_understanding":  "PPT TEXT CONTENT: \u0027Problem: Students struggle to find hackathon teams.\u0027",
+                                          "solution_approach":  "PPT TEXT CONTENT: \u0027Solution: A Tinder-like app for hackers.\u0027",
+                                          "innovation":  "PPT TEXT CONTENT: \u0027Solution: A Tinder-like app for hackers.\u0027",
+                                          "technical_feasibility":  "PPT TEXT CONTENT: \u0027Tech Stack: React, Firebase, Node.js.\u0027",
+                                          "presentation_quality":  "The entire submission is provided as raw text content, lacking any visual elements, formatting, or diagrams typical of a presentation."
+                                      },
+                        "total_score":  65,
+                        "missing_sections":  [
+                                                 "Detailed Solution Flow",
+                                                 "Architecture Diagram",
+                                                 "Future Scope",
+                                                 "User Research/Data",
+                                                 "Competitive Analysis",
+                                                 "Team Information",
+                                                 "Demo (implied by PPT submission)"
+                                             ],
+                        "strengths":  [
+                                          "Identifies a real and common problem faced by hackathon participants.",
+                                          "Proposes a straightforward and understandable solution concept.",
+                                          "Utilizes a feasible and common tech stack, indicating technical achievability."
+                                      ],
+                        "weaknesses":  [
+                                           "Lack of depth in problem understanding, with no supporting data or research.",
+                                           "Solution is high-level and lacks detailed features, user flows, or unique aspects.",
+                                           "Innovation is limited to applying an existing concept to a new domain.",
+                                           "Minimal technical details provided, with no mention of advanced features or optimizations.",
+                                           "Extremely poor presentation quality, consisting only of raw text.",
+                                           "Many critical sections typically found in a hackathon presentation are entirely missing."
+                                       ],
+                        "verdict":  "REJECT",
+                        "confidence":  1
+                    },
+                    {
+                        "scores":  {
+                                       "problem_understanding":  15,
+                                       "solution_approach":  15,
+                                       "innovation":  15,
+                                       "technical_feasibility":  15,
+                                       "presentation_quality":  5
+                                   },
+                        "reasoning":  {
+                                          "problem_understanding":  "The problem \u0027Students struggle to find hackathon teams\u0027 is defined and represents a grounded pain point. However, it lacks depth, specific user research, or compelling data to elevate it beyond an average understanding.",
+                                          "solution_approach":  "The solution \u0027A Tinder-like app for hackers\u0027 is functional and directly addresses the core problem. It provides a clear concept for matching. However, it lacks details on comprehensive flows, edge cases, or architectural considerations, making it an average approach.",
+                                          "innovation":  "The concept of a \u0027Tinder-like app\u0027 for matching people is an existing paradigm. Applying it to the niche of \u0027hackers\u0027 for team formation represents an existing concept with a new twist, rather than a novel or paradigm-shifting innovation.",
+                                          "technical_feasibility":  "The proposed tech stack \u0027React, Firebase, Node.js\u0027 is a standard and feasible combination. It indicates the project is achievable but doesn\u0027t suggest any technically impressive features, advanced optimization, or complex architecture handled elegantly.",
+                                          "presentation_quality":  "The submission consists solely of three short sentences of raw text. It completely lacks any visual elements, formatting, diagrams, or storytelling, which are fundamental to presentation quality. This falls squarely into the \u0027Poor\u0027 category."
+                                      },
+                        "citations":  {
+                                          "problem_understanding":  "PPT TEXT CONTENT: \u0027Problem: Students struggle to find hackathon teams.\u0027",
+                                          "solution_approach":  "PPT TEXT CONTENT: \u0027Solution: A Tinder-like app for hackers.\u0027",
+                                          "innovation":  "PPT TEXT CONTENT: \u0027Solution: A Tinder-like app for hackers.\u0027",
+                                          "technical_feasibility":  "PPT TEXT CONTENT: \u0027Tech Stack: React, Firebase, Node.js.\u0027",
+                                          "presentation_quality":  "The entire submission is provided as raw text content, lacking any visual elements, formatting, or diagrams typical of a presentation."
+                                      },
+                        "total_score":  65,
+                        "missing_sections":  [
+                                                 "Detailed Solution Flow",
+                                                 "Architecture Diagram",
+                                                 "Future Scope",
+                                                 "User Research/Data",
+                                                 "Competitive Analysis",
+                                                 "Team Information",
+                                                 "Demo (implied by PPT submission)"
+                                             ],
+                        "strengths":  [
+                                          "Identifies a real and common problem faced by hackathon participants.",
+                                          "Proposes a straightforward and understandable solution concept.",
+                                          "Utilizes a feasible and common tech stack, indicating technical achievability."
+                                      ],
+                        "weaknesses":  [
+                                           "Lack of depth in problem understanding, with no supporting data or research.",
+                                           "Solution is high-level and lacks detailed features, user flows, or unique aspects.",
+                                           "Innovation is limited to applying an existing concept to a new domain.",
+                                           "Minimal technical details provided, with no mention of advanced features or optimizations.",
+                                           "Extremely poor presentation quality, consisting only of raw text.",
+                                           "Many critical sections typically found in a hackathon presentation are entirely missing."
+                                       ],
+                        "verdict":  "REJECT",
+                        "confidence":  1
+                    }
+                ]
+}
